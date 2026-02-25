@@ -48,14 +48,14 @@
 ### 📊 Thống kê GitHub của tôi
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beolamtat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=beolamtat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=beolamtat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 🏆 Các ngôn ngữ sử dụng nhiều nhất
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beolamtat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=beolamtat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
