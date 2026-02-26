@@ -37,20 +37,35 @@
 
 ### 🛠️ Công nghệ và Công cụ (Tech Stack)
 
+**🌐 Frontend Development**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,js,ts,react,nextjs,vue,redux,tailwind,sass,bootstrap,vuetify,jquery&perline=12" />
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,python&perline=12" />
-  <img src="https://skillicons.dev/icons?i=flutter,swift&perline=12" />
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase&perline=12" />
-  <img src="https://skillicons.dev/icons?i=docker,aws&perline=12" />
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma&perline=12" />
+</p>
+
+**⚙️ Backend & Database**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,python,mongodb,mysql,supabase,firebase&perline=12" />
+</p>
+
+**📱 Mobile Development**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,flutter,swift&perline=12" />
+</p>
+
+**🔧 DevOps & Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,gitlab,figma&perline=12" />
 </p>
 
 ---
 
-### 📊 Thống kê GitHub của tôi
+### 💼 Các dịch vụ tôi cung cấp
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=beolamtat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=beolamtat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+- 🌐 **Web Development**: Xây dựng Website & Web App trọn gói từ Landing Page đến hệ thống quản lý chuyên sâu (React, Vue, Laravel, Node.js). Tích hợp **tối ưu SEO** chuẩn hóa, giúp website lên top dễ dàng.
+- 📱 **Mobile Development**: Ứng dụng iOS & Android đa nền tảng mượt mà, chuẩn UI/UX (React Native, Flutter, Swift).
+- ⚙️ **Backend & API**: Thiết kế kiến trúc hệ thống vững chắc, RESTful APIs, tối ưu hóa Database và bảo mật.
+- 🔧 **Bảo trì & Nâng cấp**: Fix bug, tối ưu hiệu năng (Performance), và mở rộng quy mô (Scale) cho dự án có sẵn.
