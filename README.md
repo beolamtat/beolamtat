@@ -9,7 +9,7 @@
 
 ---
 
-### �‍💻 Về bản thân tôi
+### ‍💻 Về bản thân tôi
 
 - 💼 **Là một Lập trình viên Fullstack tự do (Freelancer chuyên nghiệp)**, tôi "bao sân" từ **Website, App Mobile cho đến Backend**.
 - 🚀 Chuyên cung cấp các giải pháp công nghệ toàn diện: xây dựng API vững chắc, tối ưu hóa cơ sở dữ liệu và thiết kế giao diện đa nền tảng mượt mà.
@@ -23,14 +23,11 @@
 ### 🌐 Kết nối với tôi
 
 <p align="left">
-  <a href="https://linkedin.com/in/[Username_LinkedIn_Của_Bạn]" target="_blank">
+  <a href="https://github.com/beolamtat" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://[Link_Website_Portfolio_Của_Bạn]" target="_blank">
+  <a href="https://github.com/beolamtat" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Personal_Website-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://twitter.com/[Username_Twitter_Của_Bạn]" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/[Username_Twitter_Của_Bạn]?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Twitter"/>
   </a>
 </p>
 
@@ -39,8 +36,12 @@
 ### 🛠️ Công nghệ và Công cụ (Tech Stack)
 
 <p align="left">
-  <!-- Thay đổi các icon tùy theo kỹ năng của bạn tại: https://skillicons.dev/ -->
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,python,mongodb,mysql,git,docker,aws&perline=12" />
+  <img src="https://skillicons.dev/icons?i=html,js,ts,react,nextjs,vue,redux,tailwind,sass,bootstrap,vuetify,jquery&perline=12" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,python&perline=12" />
+  <img src="https://skillicons.dev/icons?i=flutter,swift&perline=12" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase&perline=12" />
+  <img src="https://skillicons.dev/icons?i=docker,aws&perline=12" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma&perline=12" />
 </p>
 
 ---
@@ -50,16 +51,4 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=beolamtat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=beolamtat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-### 🏆 Các ngôn ngữ sử dụng nhiều nhất
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=beolamtat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
