@@ -5,7 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=beolamtat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20beolamtat's%20world!&descAlignY=51&descAlign=62"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0e75b6&center=true&vCenter=true&width=800&height=120&lines=Welcome+to+my+world!;Freelance+Fullstack+Developer;Website,+Mobile+App+%26+Backend" alt="Typing text" />
+</p>
 
 ---
 
