@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm beolamtat</h1>
-<h3 align="center">Một Lập trình viên Freelance đầy đam mê</h3>
+<h3 align="center">Một Lập trình viên</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=beolamtat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
